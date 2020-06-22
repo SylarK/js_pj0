@@ -24,7 +24,7 @@ CLASS
 
 }
 
-.container {
+.container-index {
 
     width: 100%;
     height: 100%;
@@ -37,6 +37,34 @@ CLASS
     background-size: cover;
     height: 100%;
     width: 100%;
+    
+
+}
+
+.market {
+
+    border: 2px solid red;
+    height: ;
+
+}
+
+.row-footer{
+
+    background-color:#bad7df ;
+    height: 100%;
+    margin-left: 0.03px;
+    margin-right: 0.03px;
+    opacity: 0.9;
+
+
+}
+
+.icons-footer img{
+
+    width: 30px;
+    height: auto;
+    margin-bottom: 7px;
+    margin-left: 50px;
     
 
 }
@@ -88,10 +116,6 @@ ID
 
 #footer-container{
 
-    display: flex;
-    flex-wrap: wrap ;
-    background-color: black;
     width: 100%;
-
+    height: 50px;
 }
-
